@@ -2,8 +2,6 @@
 
 ### Desenvolvido na linguagem Java por:
 
-- [Sarah Tambalo](https://github.com/sarahtambalo)
-
 ## Descrição
 
 Este é um projeto de uma API REST para o desafio Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway da DIO.
