@@ -1,7 +1,5 @@
 ## <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"> DESAFIO: Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway
 
-### Desenvolvido na linguagem Java por:
-
 ## Descrição
 
 Este é um projeto de uma API REST para o desafio Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway da DIO.
